@@ -1,6 +1,6 @@
-let num=321;
-if(num%5==0){
-console.log("gezrg');
+let num= 321;
+if(num % 2==0){
+console.log("Even Number");
 }else{
-console.log("dsfs");
+console.log("Odd Number");
 }
